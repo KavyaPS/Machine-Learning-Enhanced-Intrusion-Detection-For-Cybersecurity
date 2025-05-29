@@ -12,4 +12,4 @@ The Intrusion Detection Model helps to identify the network traffic and distingu
 ![Model screenshot](project/)
 
 ## video
-![video](project/video.mp4)
+![video](project/DEMOvideo.mp4)
