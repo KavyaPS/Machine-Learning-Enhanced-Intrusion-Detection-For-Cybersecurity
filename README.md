@@ -9,7 +9,7 @@ The Intrusion Detection Model helps to identify the network traffic and distingu
 - **Tools:** Django, Anaconda Navigator, vscode .
   
 # Screenshots of the Project
-![Model screenshot](project/webpage.png)
+![Model screenshot](webpage.png)
 
 ## video
-![video](project/DEMO video .mp4)
+![video](DEMOvideo.mp4)
